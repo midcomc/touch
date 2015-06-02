@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="hello">Hello World, MainActivity!</string>
-    <string name="app_name">touch</string>
-	<string name="facebook_app_id">805131806221740</string>
-
-</resources>
